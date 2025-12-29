@@ -1,6 +1,6 @@
-﻿B7BA8DFBE44FA9343C48791911EFAA44E695F20A0A5BC0981FC0F3B4DF68F2F8 *C:\Users\Laptop\Desktop\forensic grade lock down\forensic grade lock down.docx
-603A533E79EEB747A1D79DE062775299A3478ABEEFF0EE91F13874EFE4CCE19A *C:\Users\Laptop\Desktop\forensic grade lock down\forensic grade lock down.md
-582C569FD1A125E40845C11445788BE8EE16506240941968DA595C0FFBBBC393 *C:\Users\Laptop\Desktop\forensic grade lock down\forensic grade lock down.pdf
-FBD9DB58B9F25E52B50D71B76CE2931A4EDAA176C08A974E3EE7E4163549EBBC *C:\Users\Laptop\Desktop\forensic grade lock down\hashes.txt
-95FA95CC99466997DE9B7F216651730441A52DA3B44A0B1DFB868432A9CC7E47 *C:\Users\Laptop\Desktop\forensic grade lock down\Screenshot 2025-12-29 140157.png
-5C6592BB21AB2C58287A038BC58A7D958413512446B15FAD10DB78D34B97A202 *C:\Users\Laptop\Desktop\forensic grade lock down\Screenshot 2025-12-29 140228.png
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Laptop\Desktop\Let’s start with code that’s immediately vault worthy\hashes.txt
+C47DC7B6E1FDC43F22C133EB25972DB41799331BC2233A022A472728DD672DE5 *C:\Users\Laptop\Desktop\Let’s start with code that’s immediately vault worthy\Let’s start with code that’s immediately vault‑worthy_ (1).docx
+96B0DE4686788C7F505E5238CC1FCA717D0B03CE8101AF808C52EF093D809164 *C:\Users\Laptop\Desktop\Let’s start with code that’s immediately vault worthy\Let’s start with code that’s immediately vault‑worthy_.md
+10CE0D8343723201958F2A74FDE3A1CC8BA972D66FDE2F7983AC38FCFF605DA1 *C:\Users\Laptop\Desktop\Let’s start with code that’s immediately vault worthy\Let’s start with code that’s immediately vault‑worthy_.pdf
+D9AC5B499FCA8D79E576A03D10324EEA5B1283233B8BCEBCA7E9895A561720E1 *C:\Users\Laptop\Desktop\Let’s start with code that’s immediately vault worthy\Screenshot 2025-12-29 155025.png
+02064D3A9A8A831BA2BB4C0D99CC6A9F8D690B9AC6BD32B5A732E23282297AB2 *C:\Users\Laptop\Desktop\Let’s start with code that’s immediately vault worthy\Screenshot 2025-12-29 155133.png
