@@ -3,7 +3,7 @@ The SSPS IP stack, including Mint-to Logic™, The Shepherd’s Method™, and a
 By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
 
 # Tokenomics
-Value backed crypto ecossytem
+Value backed crypto ecossytem Note: This is an evolving, living ecosystem of protection, where every component develops and adapts in real time.
 
 ⚠️ COPYRIGHT + ANTI‑MIRRORING NOTICE
 © Spencer Southern / Southern Star Pro Studios L.L.C. All rights reserved.
